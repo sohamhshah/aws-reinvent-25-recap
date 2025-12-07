@@ -1,5 +1,3 @@
-Readme · MD
-Copy
 
 <div align="center">
 
